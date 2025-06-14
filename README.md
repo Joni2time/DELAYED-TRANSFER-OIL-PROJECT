@@ -6,8 +6,8 @@
 +	Identification of available trucks, preparation of loading order and positioning of trucks for loading in an orderly manner
 +	Receiving/Processing of returned waybills from Transport division
 +	Issuing of ATC for Company deliver to Customer
-# SENIOR SALES/MARKETING OFFICER, 2019-2021      
-# BUA CEMENT PLC                          
+### SENIOR SALES/MARKETING OFFICER, 2019-2021      
+### BUA CEMENT PLC                          
 +	Establish and maintain strong relationship between company and customers                 
 +	Track all sales complaint and report for managements review
 +	Analyze and create a plan for engaging the Target market
