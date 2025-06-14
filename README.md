@@ -1,5 +1,5 @@
 # DELAYED-TRANSFER-OIL-PROJECT
-+	Ensure Smooth loading and Dispatch operations+
++	Ensure Smooth loading and Dispatch operations
 +	Prepare loading Orders+
 +	Identifying and tracking of Delivered goods using waybills+
 +	Compiling loaded and Dispatch report on shift basis+ 
